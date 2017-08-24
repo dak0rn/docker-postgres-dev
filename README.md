@@ -2,7 +2,7 @@
 Development setup for Postgres in Docker
 
 Self-configuring Postgres container that can be used for development setups.
-Automatically creates the database user with a password, create a database
+Automatically creates the database user with a password, and the database
 and installs the `uuid-ossp` extension upon startup.
 
 ## Usage
